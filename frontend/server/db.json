@@ -1,0 +1,20 @@
+{
+  "vendedores": [
+    {
+      "idvendedor": 1,
+      "nome": "Anderson"
+    },
+    {
+      "idvendedor": 2,
+      "nome": "Foguinho"
+    },
+    {
+      "idvendedor": 3,
+      "nome": "Gabriel"
+    },
+    {
+      "idvendedor": 4,
+      "nome": "Eraldo"
+    }
+  ]
+}
